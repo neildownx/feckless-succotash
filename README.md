@@ -9,7 +9,7 @@ Free to Share. It's also about options, which is the beauty of Android. We know 
 and you are free to update as frequently or infrequently as you like. Omni is about flexibility and giving users what they expect
 and we are excited to see where the community goes with it.
 
-::About Omni::
+::About::
 http://omnirom.org/
 http://docs.omnirom.org/Main_Page
 
