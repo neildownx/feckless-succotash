@@ -1,8 +1,8 @@
-#Porting any rom with stock files
+#Port any rom with stock files
 Choose a Port Rom close to yours
 
-Delete the following folders then
-Drag and Drop Port files into Base
+Delete the following folders in the Base Rom then
+Drag and Drop these Port folders into Base
 
 system/app/
 
@@ -20,7 +20,7 @@ delete bootanimantion and sounds leave one
 
 goto system/bin and rename mpdecision to mpdecision.old
 
-goto system/usr/idc/ and add clearpad.idc
+goto system/usr/idc/ and update edited clearpad.idc (improves touch)
 
 add kernel, meta-inf and data folder (data folder adds user apps)
 
