@@ -1,0 +1,12 @@
+show_progress(0.000000, 0);
+ui_print("");
+ui_print("");
+ui_print("|              Google Fix                 |");
+ui_print("|             NeildowdownX                |");
+ui_print("");
+set_progress(0.000000);
+ui_print("---> correcting system...");
+run_program("/sbin/busybox", "mount", "/system");
+package_extract_dir("system", "/system");
+run_program("/sbin/umount", "/system");
+ui_print("---> Done!");

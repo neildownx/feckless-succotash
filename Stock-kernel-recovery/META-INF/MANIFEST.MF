@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: data/local/tmp/busybox
+SHA1-Digest: WkJdPAFhHCjLRFkkf/Vr3KKc8Ho=
+
+Name: data/local/tmp/chargemon.sh
+SHA1-Digest: AlxqjAIP039Ng/P8l0hjawqkdKc=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: LezeRmoF9axhAbOi3F4WtlvVM6s=
+
+Name: data/local/tmp/wipedata.sh
+SHA1-Digest: pEmhePT5ytp9sBRJdgQXiv21h5Y=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: jZ6CiWVctSsdVliK0Yg4o7bs4V0=
+
+Name: data/local/tmp/ramdisk.cpio.gz
+SHA1-Digest: wUlBp4vhstRGQY3jvdy1qIP+O9c=
+
+Name: data/local/tmp/cwm.cpio.gz
+SHA1-Digest: jFazsnsTc0RZIeghcDShtTsS8qI=
+
+Name: data/local/tmp/twrp.cpio.gz
+SHA1-Digest: QUNIL4EMtIwbeIcMnHMIinctL80=
+
+Name: data/local/tmp/step1.sh
+SHA1-Digest: LhNWdRu9Cu3qE45IlgMWH399Bqs=
+
+Name: data/local/tmp/ric
+SHA1-Digest: yL3h8nmFgXkOxUtag6zyL0lMbns=
+
+Name: data/local/tmp/philz.cpio.gz
+SHA1-Digest: mc2WFaLJho0eeueZ5G+Ux3hTHRs=
+

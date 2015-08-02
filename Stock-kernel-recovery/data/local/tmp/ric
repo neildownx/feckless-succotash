@@ -1,0 +1,8 @@
+#!/system/bin/sh
+while :
+do
+	if [ -f "/sys/kernel/security/sony_ric/enable" ]; then
+		echo 0 > /sys/kernel/security/sony_ric/enable 
+	fi
+	sleep 60
+done
