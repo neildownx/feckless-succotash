@@ -1,26 +1,18 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720
+Porting any rom with stock files
+Choice a Port Rom close to yours
 
-\f0\fs36 \cf2 \expnd0\expndtw0\kerning0
-\shad\shadx20\shady0\shadr20\shado0 \shadc0 Porting any rom with stock files\
-Choice a Port Rom close to yours\
-\
-Delete the following folders then\
-Drag and Drop Port files into Base\
-\
-system/app\
-system/fonts\
-system/framework\
-system/media\
-system/priv-app\
-\
-\
+Delete the following folders then
+Drag and Drop Port files into Base
+
+#system/app\
+#system/fonts\
+#system/framework\
+#system/media\
+#system/priv-app\
+
+
 delete bootanimantion and sounds leave one\
 goto system/bin and rename mpdecision to mpdecision.old\
 goto system/usr/idc/ and add clearpad.idc\
 add kernel, meta-inf and /data folder\
-}
+
