@@ -14,7 +14,7 @@ http://omnirom.org/
 http://docs.omnirom.org/Main_Page
 
 ::Sources::
-Omni: https://github.com/omnirom/
+https://github.com/omnirom/
 http://dl.omnirom.org/yuga/
 
 ::Credits:: Sony Stock Kernel.207 - Omni Team - Sam spancer
