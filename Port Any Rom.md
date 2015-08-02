@@ -14,6 +14,8 @@ system/media/
 
 system/priv-app/
 
+------------------------------------------------------
+
 delete bootanimantion and sounds leave one
 
 goto system/bin and rename mpdecision to mpdecision.old
