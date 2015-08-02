@@ -9,16 +9,16 @@ Free to Share. It's also about options, which is the beauty of Android. We know 
 and you are free to update as frequently or infrequently as you like. Omni is about flexibility and giving users what they expect
 and we are excited to see where the community goes with it.
 
-.::About Omni::.
+::About Omni::.
 http://omnirom.org/
 http://docs.omnirom.org/Main_Page
 
-.::Sources::.
+::Sources::.
 Omni: https://github.com/omnirom/
 http://dl.omnirom.org/yuga/
 
-.::Credits::. Sony Stock Kernel::. .207 : Omni Team : Sam spancer
+::Credits::. Sony Stock Kernel::. .207 : Omni Team : Sam spancer
 
-.::Requirements::. Xperia SP : Locked/Unlocked Bootloader : Recovery : Root is optional
+::Requirements::. Xperia SP : Locked/Unlocked Bootloader : Recovery : Root is optional
 
-About this Rom: Ported from Official Omni Xperia Z (yuga) : Original Apps and Framework files intact : With sony stock kernel and cwm recovery : Includes SuperUser and ES File Manager : NO GAPPS
+::About this Rom::. Ported from Official Omni Xperia Z (yuga) : Original Apps and Framework files intact : With sony stock kernel and cwm recovery : Includes SuperUser and ES File Manager : NO GAPPS
