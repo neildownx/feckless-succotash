@@ -1,5 +1,5 @@
 #Porting any rom with stock files
-Chooce a Port Rom close to yours
+Choose a Port Rom close to yours
 
 Delete the following folders then
 Drag and Drop Port files into Base
