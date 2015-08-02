@@ -17,8 +17,8 @@ http://docs.omnirom.org/Main_Page
 Omni: https://github.com/omnirom/
 http://dl.omnirom.org/yuga/
 
-::Credits::. Sony Stock Kernel::. .207 : Omni Team : Sam spancer
+::Credits::. Sony Stock Kernel.207 - Omni Team - Sam spancer
 
-::Requirements::. Xperia SP : Locked/Unlocked Bootloader : Recovery : Root is optional
+::Requirements::. Xperia SP - Locked/Unlocked Bootloader - Recovery - Root is optional
 
-::About this Rom::. Ported from Official Omni Xperia Z (yuga) : Original Apps and Framework files intact : With sony stock kernel and cwm recovery : Includes SuperUser and ES File Manager : NO GAPPS
+::About this Rom::. Ported from Official Omni Xperia Z (yuga) - Original Apps and Framework files intact - With sony stock kernel and cwm recovery - Includes SuperUser and ES File Manager - NO GAPPS
